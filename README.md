@@ -175,3 +175,4 @@ Copyright (c) 2023-Present Joe Takara. This project is licensed under the MIT Li
 ## Changelog
 
 For information on the changes made in each version, please refer to the [CHANGELOG.md](CHANGELOG.md) file.
+.
